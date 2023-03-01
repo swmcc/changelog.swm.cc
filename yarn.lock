@@ -71,6 +71,11 @@
   resolved "https://registry.yarnpkg.com/@next/env/-/env-12.0.8.tgz#a32ca0a97d464307f2e6ff106ce09b19aac108cf"
   integrity sha512-Wa0gOeioB9PHap9wtZDZEhgOSE3/+qE/UALWjJHuNvH4J3oE+13EjVOiEsr1JcPCXUN8ESQE+phDKlo6qJ8P9g==
 
+"@next/env@^13.2.2":
+  version "13.2.2"
+  resolved "https://registry.yarnpkg.com/@next/env/-/env-13.2.2.tgz#52761a775ad9cf241a6973bd72afba6ba10a4e0c"
+  integrity sha512-sBcFEJS8j2cNQemYy07TKUd8lSWj3/mzFA4GCTr/4T4LfYiw5Ep+PZ06AuFdR3z+jIZt9YqaXwUYi1J4p4yABQ==
+
 "@next/react-refresh-utils@12.0.8":
   version "12.0.8"
   resolved "https://registry.yarnpkg.com/@next/react-refresh-utils/-/react-refresh-utils-12.0.8.tgz#481760a95ef442abd091663db6582d4dc1b31f06"
