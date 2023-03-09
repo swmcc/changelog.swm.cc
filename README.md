@@ -1,4 +1,4 @@
-# theonlystephen
+# changelog.swm.cc
 
 ![Screenshot](assets/screenshot_1.png "Screenshot")
 ![Screenshot](assets/screenshot_2.png "Screenshot")
