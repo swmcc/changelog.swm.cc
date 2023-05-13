@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/scripts/get_commits.js 1",
+      "schedule": "0 8 * * *"
+    }
+  ]
+}
